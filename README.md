@@ -4,4 +4,4 @@ Author = Henry Ezike
 
 This project simply demonstrates how I used Python to extract data from Spotify's API.
 
-Data Extraction from RESTful APIs is important an important skill to possess as a Machine Learning Engineer because Machine Learning Models learn from data and data lives online and also in APIs.
+Extracting data from RESTful APIs is a crucial skill for a Machine Learning Engineer. This is because Machine Learning models are trained on data, much of which resides online and within APIs.
